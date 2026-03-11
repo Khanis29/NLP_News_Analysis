@@ -1,0 +1,9 @@
+beautifulsoup4>=4.12
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15.0
+requests>=2.31
+seaborn>=0.13
+statsmodels>=0.14
+textstat>=0.7
